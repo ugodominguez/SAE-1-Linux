@@ -1,5 +1,7 @@
 # SAE-1-Systeme
 
+![Linux](https://images3.alphacoders.com/116/116875.jpg)
+
 ## Choix réalisés
 
 J'ai décidé d'installer Linux Mint, suite aux conseils de certains de mes amis, en single boot sur mon vieil ordinateur portable.  
