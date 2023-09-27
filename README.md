@@ -1,8 +1,8 @@
 # SAE-1-Systeme
 
 <div style="display:flex; align:center">
-  <img src="https://images3.alphacoders.com/116/116875.jpg" alt="Linux" width=50%>
-  <img src="https://incubaweb.com/wp-content/uploads/2015/08/Linux-vs-windows.jpg" alt="Linux1" width=42%>
+  <img src="https://images3.alphacoders.com/116/116875.jpg" alt="Linux" width=200px>
+  <img src="https://incubaweb.com/wp-content/uploads/2015/08/Linux-vs-windows.jpg" alt="Linux1" width=200px>
 </div>
 
 ## Choix réalisés
