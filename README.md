@@ -10,3 +10,5 @@
 - Executer Balena Etcher, séléctionner l'ISO et la clé, pour créer une clé bootable
 - Aller dans le BIOS de l'ordinateur, et séléctionner Linux Mint
 - Executer l'ISO Linux Mint et suivre les instructions
+
+test
