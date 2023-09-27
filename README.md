@@ -1,7 +1,8 @@
-# SAE-1-Systeme
+![image](https://github.com/ugodominguez/SAE-1-Systeme/assets/143809104/958ae221-4ae8-45aa-a6da-4087a1866cf6)# SAE-1-Systeme
 
 <div align="center">
   <img src="https://images3.alphacoders.com/116/116875.jpg" alt="Linux" width=50%>
+  <img src="https://incubaweb.com/wp-content/uploads/2015/08/Linux-vs-windows.jpg" alt="Linux1" width=50%>
 </div>
 
 ## Choix réalisés
