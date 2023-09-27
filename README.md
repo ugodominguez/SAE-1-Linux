@@ -14,4 +14,5 @@ Je n'ai pas choisi de dual boot ou de VM, car je voulais justement, rendre mon o
 - Insérer la clé USB dans l'ordinateur
 - Executer Balena Etcher, séléctionner l'ISO et la clé, pour créer une clé bootable
 - Redemarrer l'ordinateur, aller dans le BIOS de l'ordinateur et séléctionner Linux Mint
-- Executer l'ISO Linux Mint et suivre les instructions
+- Executer l'ISO Linux Mint et suivre les instructions, en choisissant single boot
+- Voilà, Linux Mint est installé sur la machine
