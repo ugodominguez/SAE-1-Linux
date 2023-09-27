@@ -1,6 +1,8 @@
 # SAE-1-Systeme
 
-![Linux](https://images3.alphacoders.com/116/116875.jpg)
+<div align="center">
+  <img src="https://images3.alphacoders.com/116/116875.jpg" alt="Linux" width=50%>
+</div>
 
 ## Choix réalisés
 
