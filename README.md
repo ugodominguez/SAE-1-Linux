@@ -5,7 +5,7 @@
 <div style="display:flex; align:center">
   <img src="https://images3.alphacoders.com/116/116875.jpg" alt="Linux" width=49% height=200px>
   <img src="https://incubaweb.com/wp-content/uploads/2015/08/Linux-vs-windows.jpg" alt="Linux1" width=50% height=200px>
-  <!-- Je trouve ça très drôle que les images s'etirent si la fênetre est trop large -->
+  <!-- J'ai trouvé ça très drôle que les images s'etirent si la fênetre est trop large, je l'ai donc laissé -->
 </div>
 
 ## Choix réalisés
