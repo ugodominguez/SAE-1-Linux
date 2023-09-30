@@ -1,7 +1,7 @@
 # SAE-1-Systeme
 
 <div style="display:flex; align:center">
-  <img src="https://images3.alphacoders.com/116/116875.jpg" alt="Linux" height=100%>
+  <img src="https://images3.alphacoders.com/116/116875.jpg" alt="Linux" height=30%>
   <img src="https://incubaweb.com/wp-content/uploads/2015/08/Linux-vs-windows.jpg" alt="Linux1" height=100%>
 </div>
 
