@@ -1,7 +1,3 @@
-
-https://github.com/ugodominguez/SAE-1-Systeme/assets/143809104/ffc1a147-14fe-46db-ba54-4b23792ca0d3
-
-https://github.com/ugodominguez/SAE-1-Systeme/assets/143809104/8c49729e-7af5-4825-b9c1-d49f9eedca20
 # SAE-1-Systeme: [Github](https://github.com/ugodominguez/SAE-1-Systeme)
 
 <div style="display:flex; align:center">
@@ -29,4 +25,4 @@ Je n'ai pas choisi de dual boot ou de VM, car je voulais justement rendre mon or
 
 ## Démonstration des fonctionnalitées
 
-Uploading ugod-demonstration_OsjechBn.mp4…
+https://github.com/ugodominguez/SAE-1-Systeme/assets/143809104/8c49729e-7af5-4825-b9c1-d49f9eedca20
