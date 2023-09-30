@@ -1,6 +1,4 @@
-# SAE-1-Systeme
-
-[Github](https://github.com/ugodominguez/SAE-1-Systeme)
+# SAE-1-Systeme [Github](https://github.com/ugodominguez/SAE-1-Systeme)
 
 <div style="display:flex; align:center">
   <img src="https://images3.alphacoders.com/116/116875.jpg" alt="Linux" width=49% height=200px>
@@ -24,3 +22,5 @@ Je n'ai pas choisi de dual boot ou de VM, car je voulais justement, rendre mon o
 - Redemarrer l'ordinateur, aller dans le BIOS de l'ordinateur et séléctionner Linux Mint
 - Executer l'ISO Linux Mint et suivre les instructions, en choisissant single boot
 - Voilà, Linux Mint est installé sur la machine
+
+## Démonstration des fonctionnalitées
